@@ -1,0 +1,34 @@
+#include<bits/stdc++.h>
+#define ll 				long long int
+#define ld				long double
+#define mod             1000000007
+#define vec vector<ll>
+#define pp pair<ll,ll>
+#define umap unordered_map<ll,ll>
+#define us unordered_set<ll>
+#define priority_queue<ll>
+#define priority_queue<ll,vector<ll>,greater<ll>>
+using namespace std;
+int ans(vector<int>arr,int n)
+{
+
+}
+
+int main() {
+	int t;
+	cin>>t;
+	while(t--)
+    {
+        // call function and initialize variable
+        int n;
+        cin>>n;
+        vector<int>a;
+        for(int i=1;i<=n;i++)
+        {
+            int ele;
+            cin>>ele;
+            a.push_back(ele);
+        }
+
+    }
+}
